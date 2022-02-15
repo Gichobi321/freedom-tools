@@ -14,7 +14,7 @@
                      <div class="">
                      <ul>
                         <li><a href="index.php">home</a></li><br>
-                        <li><a href="products.php">Our Products</a></li><br>
+                        <li><a href="services.php">Our Services</a></li><br>
                         <li><a href="about.php">About Us</a></li><br>
                         <li><a href="contact.php">Contact Us</a></li><br>
                     </ul>

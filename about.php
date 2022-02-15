@@ -261,7 +261,6 @@ service that is second to none.
                 <a href="#" class="filled-button">Read More</a>
               </div>
             </div>
-          </div>
         </div>
       </div>
     </div>
@@ -275,6 +274,7 @@ service that is second to none.
     <footer id="footer" class="footer-area wow fadeIn">
           <?php include './components/footer.php'; ?> 
    </footer>
+          </div>
 
 
     <!-- Bootstrap core JavaScript -->

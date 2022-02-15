@@ -36,27 +36,16 @@
         </div>
       </div>
     </div>
-
-    
+          <p class="avail">Available Products:</p>
     <div class="products">
       <div class="container">
         <div class="row">
-          <div class="col-md-12">
-            <div class="filters">
-              <ul>
-                  <li class="active" data-filter="*">All Products</li>
-                  <li data-filter=".des">mechanical tools</li>
-                  <li data-filter=".dev">electrical tools</li>
-                  <li data-filter=".gra">Protective Equipments(PPE)</li>
-              </ul>
-            </div>
-          </div>
           <div class="col-md-12">
             <div class="filters-content">
                 <div class="row grid">
                     <div class="col-lg-4 col-md-4 all des">
                       <div class="product-item">
-                        <a href="#"><img src="assets/images/product_01.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/1.png" alt=""></a>
                         <div class="down-content">
                           <a href="#"><h4>Tittle goes here</h4></a>
                           <h6></h6>
@@ -66,7 +55,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 all dev">
                       <div class="product-item">
-                        <a href="#"><img src="assets/images/product_02.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/2.png" alt=""></a>
                         <div class="down-content">
                           <a href="#"><h4>Tittle goes here</h4></a>
                           <h6></h6>
@@ -76,7 +65,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 all gra">
                       <div class="product-item">
-                        <a href="#"><img src="assets/images/product_03.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/3.png" alt=""></a>
                         <div class="down-content">
                           <a href="#"><h4>Tittle goes here</h4></a>
                           <h6></h6>
@@ -87,7 +76,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 all gra">
                       <div class="product-item">
-                        <a href="#"><img src="assets/images/product_04.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/4.png" alt=""></a>
                         <div class="down-content">
                           <a href="#"><h4>Tittle goes here</h4></a>
                           <h6></h6>
@@ -97,7 +86,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 all dev">
                       <div class="product-item">
-                        <a href="#"><img src="assets/images/product_05.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/5.png" alt=""></a>
                         <div class="down-content">
                           <a href="#"><h4>Tittle goes here</h4></a>
                           <h6></h6>
@@ -107,7 +96,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 all des">
                       <div class="product-item">
-                        <a href="#"><img src="assets/images/product_06.jpg" alt=""></a>
+                        <a href="#"><img src="assets/images/6.png" alt=""></a>
                         <div class="down-content">
                           <a href="#"><h4>Tittle goes here</h4></a>
                           <h6></h6>

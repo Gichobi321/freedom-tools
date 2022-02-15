@@ -13,7 +13,20 @@
                 <a class="nav-link" href="index.php">Home</a>
               </li> 
               <li class="nav-item ">
-                <a class="nav-link" href="products.php">Our Products</a>
+              <div class="dropdown">
+  <button class="nav-link">Products</button>
+  <div class="dropdown-content">
+    <a href="fireEq.php">Fire Equipments</a>
+    <a href="safetyppe.php">Safety PPE</a>
+    <a href="bolts&nuts.php">Bolts & Nuts</a>
+    <a href="spares.php">spares</a>
+    <a href="electronics.php">Electronics</a>
+  </div>
+</div>
+              <!-- <a class="nav-link" href="products.php">Our Products</a> -->
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="services.php">services</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="about.php">About Us</a>
